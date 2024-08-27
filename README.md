@@ -1,4 +1,3 @@
-# Heading level 1
 
 <!---
 
